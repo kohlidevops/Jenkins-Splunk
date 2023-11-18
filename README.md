@@ -1,4 +1,4 @@
-# How to monitoring Jenkins using the Splunk?
+# How to monitoring and analysis Jenkins builds using the Splunk?
 
 ## Step -1: Create a Splunk account
 
